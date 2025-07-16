@@ -1,4 +1,4 @@
-# ML-FastAPI
+# Insurance Premium Prediction API
 
 🚀 Insurance Premium Prediction API (FastAPI + ML)
 This project is a Machine Learning-powered REST API built using FastAPI that predicts insurance premium amounts based on customer data such as age, gender, BMI, number of children, smoking status, and region.
