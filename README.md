@@ -5,7 +5,7 @@ This project is a Machine Learning-powered REST API built using FastAPI that pre
 
 The API provides an easy and fast way to access predictions through HTTP requests, making it ideal for integration with web or mobile applications.
 
-Key Features
+# Key Features
  
 ML Model trained to predict insurance charges using features like age, BMI, smoking status, etc.
 
@@ -16,7 +16,7 @@ Streamlit web app for interactive user input and result visualization.
 Deployed on AWS EC2, accessible from anywhere.
 
 
-Tech Stack
+# Tech Stack
 
 Machine Learning: Scikit-learn 
 
