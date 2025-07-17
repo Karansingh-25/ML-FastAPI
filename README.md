@@ -10,6 +10,7 @@ You can access the app and API here:
 
 🔗 Streamlit App: [(https://ml-fastapi-2uduwyd55hm9r4tqktfkpg.streamlit.app)
 ](https://personalitypredictionfastapi-drwefeh7mgpnxyrdjudfsz.streamlit.app)
+
 🔗 FastAPI Endpoint: [http://16.171.25.255:8000/docs](http://16.171.25.255:8000/docs)
 
 
